@@ -2,7 +2,7 @@
 
 ## Author
 - name: Pol Moreno Garcia
-- e-mail: pmorenogarcia@uoc.edu
+- e-mail: pol.moreno.garcia@outlook.com
 
 ## 
 ## Scope
